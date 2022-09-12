@@ -7,7 +7,7 @@
 
     "listening_from": {
         "protocol": "http",
-        "ip": "192.168.0.4",
+        "ip": "0.0.0.0",
         "port": 80,
         "namespaces": "/audio"
     }
